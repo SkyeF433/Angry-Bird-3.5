@@ -1,2 +1,2 @@
-# Angry-Bird-3.5
-The 3.5 version of angry bird game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
